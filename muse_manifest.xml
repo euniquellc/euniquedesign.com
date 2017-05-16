@@ -1,0 +1,85 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="euniquedesign.com" resolutions="1x" timestamp="1483989336927">
+  <folder name="css">
+    <file name="site_global.css" crc="4168092647"/>
+    <file name="master_a-master.css" crc="478130206" ref="index"/>
+    <file name="index.css" crc="278323313" ref="index"/>
+    <file name="iefonts_index.css" crc="183378663" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="flat-web-form.muse" crc="234417155" seo="true" mt="1406756754000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u931.php" crc="4150536584" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="intro_scroll2.png" crc="3835146231" ref="index"/>
+    <file name="intrologowht.png" crc="3974554754" seo="true" ref="index"/>
+    <file name="arrowdownbutton-normal copy.png" crc="4041131663" ref="index"/>
+    <file name="arrowdownbutton-rollover.png" crc="132687837" ref="index"/>
+    <file name="arrowdownbutton-down.png" crc="4268385217" ref="index"/>
+    <file name="rossette.gif" crc="83206396" ref="index"/>
+    <file name="print_icon.png" crc="3784624974" seo="true" ref="index"/>
+    <file name="crosswht.svg" crc="405031026" seo="true" ref="index"/>
+    <file name="crosswht_poster_.png" crc="409509498" ref="index"/>
+    <file name="digital_icon.png" crc="3928067081" seo="true" ref="index"/>
+    <file name="consultation_icon.png" crc="525119455" seo="true" ref="index"/>
+    <file name="logo_delfinart.svg" crc="495772235" seo="true" ref="index"/>
+    <file name="logo_delfinart_poster_.png" crc="4126660662" ref="index"/>
+    <file name="nativevote2016.svg" crc="328998470" ref="index"/>
+    <file name="nativevote2016_poster_u6136.png" crc="4037137511" ref="index"/>
+    <file name="logo_youthleadershipday.svg" crc="4171223606" seo="true" ref="index"/>
+    <file name="logo_youthleadershipday_poster_.png" crc="281760321" ref="index"/>
+    <file name="logo_renew.svg" crc="173788683" seo="true" ref="index"/>
+    <file name="logo_renew_poster_.png" crc="3793130332" ref="index"/>
+    <file name="logo_cosmic.gif" crc="86690828" seo="true" ref="index"/>
+    <file name="logo_vemephxblk.svg" crc="169119645" seo="true" ref="index"/>
+    <file name="logo_vemephxblk_poster_.png" crc="484646521" ref="index"/>
+    <file name="logo_phxindcenter_2.svg" crc="521917141" seo="true" ref="index"/>
+    <file name="logo_phxindcenter_2_poster_.png" crc="451215134" ref="index"/>
+    <file name="logo_mujeresdelsol.svg" crc="193208245" seo="true" ref="index"/>
+    <file name="logo_mujeresdelsol_poster_.png" crc="512406981" ref="index"/>
+    <file name="logo_palabras.svg" crc="32522490" seo="true" ref="index"/>
+    <file name="logo_palabras_poster_.png" crc="3885305588" ref="index"/>
+    <file name="logo_ealphx.svg" crc="367104438" ref="index"/>
+    <file name="logo_ealphx_poster_u3545.png" crc="4219638908" ref="index"/>
+    <file name="logo_djfenix.svg" crc="69706405" seo="true" ref="index"/>
+    <file name="logo_djfenix_poster_.png" crc="4231660662" ref="index"/>
+    <file name="tornpaperbg_whtup.png" crc="364209456" ref="index"/>
+    <file name="tornpaperbg_wht.png" crc="4218037287" ref="index"/>
+    <file name="facebook-normal.jpg" crc="384487007" ref="index"/>
+    <file name="facebook-rollover.jpg" crc="4267571680" ref="index"/>
+    <file name="facebook-u6396-m-fr.png" crc="3925645002" ref="index"/>
+    <file name="behence-normal.jpg" crc="3779104098" ref="index"/>
+    <file name="behence-roll over.jpg" crc="31002382" ref="index"/>
+    <file name="behence-u6405-m-fr.png" crc="492400301" ref="index"/>
+    <file name="linkedin-normal.jpg" crc="4034206020" ref="index"/>
+    <file name="linkedin-rollover.jpg" crc="3825378371" ref="index"/>
+    <file name="linkedin-u6402-m-fr.png" crc="450075428" ref="index"/>
+    <file name="instagram-normal.png" crc="3898531486" ref="index"/>
+    <file name="instagram-roll over.jpg" crc="4225718752" ref="index"/>
+    <file name="instagram-u6408-m-fr.png" crc="278329423" ref="index"/>
+    <file name="twitter-normal.jpg" crc="3853499345" ref="index"/>
+    <file name="twitter-rollover.jpg" crc="3893727450" ref="index"/>
+    <file name="twitter-down mouse.png" crc="4291926327" ref="index"/>
+    <file name="intrologowht2.png" crc="495656771" seo="true" ref="index"/>
+    <file name="u5607-6.png" crc="161827658" ref="index"/>
+    <file name="u5755-7.png" crc="3866016251" ref="index"/>
+    <file name="floweringbg.jpg" crc="319001707" ref="index"/>
+  </folder>
+  <file name="index.html" crc="389327911" seo="true" mt="1483987107229" redirect="true"/>
+</manifest>
